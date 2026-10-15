@@ -1,3 +1,1 @@
-# gyakorl-s
-Github gyakorlás
-Béres Patrik
+Tanulo: Béres Patrik
